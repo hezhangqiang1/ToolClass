@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/GUIManager/UIManager.unity
+- path: Assets/AudioManager/AudioManager.unity
   isLoaded: 1
   isActive: 1
