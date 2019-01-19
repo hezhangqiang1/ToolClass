@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AudioManager/AudioManager.unity
+- path: Assets/PoolManager/PoolManager.unity
   isLoaded: 1
   isActive: 1
